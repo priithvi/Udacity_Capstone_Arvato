@@ -25,7 +25,7 @@ The data is downloaded from Udacity's Workspace. The following datasets are prov
 The Python code file created used to do all the analysis is available by the name: Arvato_analysis.ipynb
 
 ## Licensing, Authors, and Acknowledgements
-Technical repose of the project is also create on Medium here:
+Technical repose of the project is also create on Medium here: https://mail-prithvi.medium.com/arvato-financial-services-segmentation-and-predictive-modeling-6552eb64e20d
 This same report is present in the repository by the name: Arvato_analysis.pdf
 Apart from those licensing information, anyone if free to use and reproduce the code as they like.
 
